@@ -2,3 +2,5 @@ Clone the github repo https://github.com/mmstevenson/frost_poem
 
 In order to set up your local environment from the command line, please run:
 pip install requirements.txt
+
+To execute the project, run the command: run_f.py 
